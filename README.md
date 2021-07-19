@@ -1,4 +1,4 @@
-# Hey, I'm Jonas 🤝 👨‍💻
+## Hey, I'm Jonas 🤝 👨‍💻
 
 <img align="right" src="https://github.com/jonasjuenemann/jonasjuenemann/blob/main/ML.png?raw=true" alt="" width=350px height=240px/>
 
