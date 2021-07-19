@@ -7,7 +7,7 @@ I'm passionate about creating new ways to let data simplify our lives. For this 
 Front-Ends, that can display the results in the most intuitive way possible.
 For this matter, i'm constantly looking into and learning more about new technologies that make this even easier.
 I very much enjoy working with Python and SQLAlchemy for Data Science Projects and Back-Ends, as well as Html, CSS (SCSS) and Javascript for all kinds of Front-End functionality and interactivity. 
-Aside from Programming, i'm an enthusiastic stock investor, gamer and sports person, so my projects tend to revolve around these themes.
+Aside from Programming, i'm an enthusiastic stock investor, gamer and sports person, so my projects tend to revolve around these topics.
 
 - 💻 I’m currently working on a Webapplication using a combination of Flask (Python) and a React Front-end.
 - 🌱 I’m currently learning about server-side Programming in Javascript with Node.js and express to be able to create full-stack javascript projects.
