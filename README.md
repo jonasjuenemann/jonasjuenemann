@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/
 jonasjuenemann/
-jonasjuenemann/blob/master/ML.PNG" alt="" width=350px height=350px/>
+jonasjuenemann/ML.PNG" alt="" width=350px height=350px/>
 
 
 # Hey, I'm Jonas 🤝 👨‍💻
