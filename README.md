@@ -1,4 +1,14 @@
-### Hi there 👋
+<img align="right" src="https://github.com/
+jonasjuenemann/
+jonasjuenemann/blob/master/ML.PNG" alt="" width=350px height=350px/>
+
+
+# Hey, I'm Jonas 🤝 👨‍💻
+
+I'm an aspiring software engineer and data scientist from Germany. I'm passionate about creating new, awesome Front-Ends, 
+
+
+
 
 <!--
 **jonasjuenemann/jonasjuenemann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
