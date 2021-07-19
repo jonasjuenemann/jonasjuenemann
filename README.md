@@ -1,6 +1,6 @@
 ## Hey, I'm Jonas 🤝 👨‍💻
 
-<img align="right" src="https://github.com/jonasjuenemann/jonasjuenemann/blob/main/ML.png?raw=true" alt="" width=350px height=240px/>
+<img align="right" margin-top:1em src="https://github.com/jonasjuenemann/jonasjuenemann/blob/main/ML.png?raw=true" alt="" width=350px height=240px/>
 
 I'm an aspiring software engineer and data scientist from Germany, currently studying Information Systems. 
 I'm passionate about creating new ways to let data simplify our lives. For this matter, i'm also always interested in building awesome
