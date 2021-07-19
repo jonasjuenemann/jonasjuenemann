@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/jonasjuenemann/jonasjuenemann/blob/main/ML.png?raw=true" alt="" width=350px height=240px/>
+<img align="right" margin-top:1em src="https://github.com/jonasjuenemann/jonasjuenemann/blob/main/ML.png?raw=true" alt="" width=350px height=240px/>
 
 
 # Hey, I'm Jonas 🤝 👨‍💻
