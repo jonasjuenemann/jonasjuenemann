@@ -5,7 +5,7 @@
 I'm an aspiring software engineer and data scientist from Germany, currently studying Information Systems. 
 I'm passionate about creating new ways to let data simplify our lives. For this matter, i'm also always interested in building awesome
 Front-Ends, that can display the results in the most intuitive way possible.
-For this matter, i'm constantly looking into and learning more about new technologies that make this even easier.
+So i'm constantly looking into and learning more about new technologies that make this even easier.
 I very much enjoy working with Python and SQLAlchemy for Data Science Projects and Back-Ends, as well as Html, CSS (SCSS) and Javascript for all kinds of Front-End functionality and interactivity. 
 Aside from Programming, i'm an enthusiastic stock investor, gamer and sports person, so my projects tend to revolve around these topics.
 
